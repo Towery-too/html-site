@@ -1,3 +1,12 @@
-body {color: red;}
+body {background-color: red;}
 h1 {color: white;}
 h2 {color: white;}
+
+h1 {
+  border: 2px transparent white;
+  padding: 30px;
+}
+h2 {
+  border: 2px transparent white;
+  padding: 30px;
+}
